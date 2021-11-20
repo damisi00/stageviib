@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/stageviib/static/css/main.d0ce4004.chunk.css",
-    "main.js": "/stageviib/static/js/main.589e7df8.chunk.js",
-    "main.js.map": "/stageviib/static/js/main.589e7df8.chunk.js.map",
+    "main.css": "/stageviib/static/css/main.69477098.chunk.css",
+    "main.js": "/stageviib/static/js/main.81e5bae1.chunk.js",
+    "main.js.map": "/stageviib/static/js/main.81e5bae1.chunk.js.map",
     "runtime-main.js": "/stageviib/static/js/runtime-main.2fd7357e.js",
     "runtime-main.js.map": "/stageviib/static/js/runtime-main.2fd7357e.js.map",
     "static/css/2.383c0125.chunk.css": "/stageviib/static/css/2.383c0125.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.c3c9bc84.chunk.js.map": "/stageviib/static/js/3.c3c9bc84.chunk.js.map",
     "index.html": "/stageviib/index.html",
     "static/css/2.383c0125.chunk.css.map": "/stageviib/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.d0ce4004.chunk.css.map": "/stageviib/static/css/main.d0ce4004.chunk.css.map",
+    "static/css/main.69477098.chunk.css.map": "/stageviib/static/css/main.69477098.chunk.css.map",
     "static/js/2.70006687.chunk.js.LICENSE.txt": "/stageviib/static/js/2.70006687.chunk.js.LICENSE.txt",
     "static/media/character-1.fadfa678.png": "/stageviib/static/media/character-1.fadfa678.png",
     "static/media/character-10.b8cf9c50.png": "/stageviib/static/media/character-10.b8cf9c50.png",
@@ -48,7 +48,7 @@
     "static/js/runtime-main.2fd7357e.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.70006687.chunk.js",
-    "static/css/main.d0ce4004.chunk.css",
-    "static/js/main.589e7df8.chunk.js"
+    "static/css/main.69477098.chunk.css",
+    "static/js/main.81e5bae1.chunk.js"
   ]
 }
